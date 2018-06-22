@@ -1,0 +1,9 @@
+Package: com.jakeashacks.nobetaexp
+Name: noBetaExpire
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Remove the alert which comes every time you unlock your device on an expired beta. Made specifically for iOS 11.3 beta 5&6
+Maintainer: Jake James
+Author: Jake James
+Section: Tweaks
